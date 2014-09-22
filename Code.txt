@@ -1,0 +1,15 @@
+Python
+
+def max_number(*args):
+    
+	print max(args)
+    
+	return max(args)
+ 
+  
+
+def min_number(*args):
+    
+	print min(args)
+    
+	return min(args)

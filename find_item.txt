@@ -1,0 +1,5 @@
+def  find_item(array,search_term):
+    for x in array:
+        if x == search_term:
+            print x 
+        break
